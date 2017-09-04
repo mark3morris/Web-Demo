@@ -1,0 +1,141 @@
+
+body{
+	background-color: #00051c;
+}
+#leftPad{
+	height: 1000%;
+	float: left;
+	width: 30px;
+}
+#title{
+    font-family: "Calibri";
+    float: center;
+	padding-top: 5%;
+	color: white;
+	font-size: 300%;
+}
+#title2{
+	font-family: "Calibri";
+	float: center;
+	padding-top: 1%;
+	color: white;
+	font-size: 170%;
+}
+#title3{
+	font-family: "Calibri";
+	text-align: center;
+	padding-top: 1%;
+	color: white;
+	font-size: 170%;
+}
+#emailAsk{
+	background-color: black;
+	height: 100%;
+	position: fixed;
+	right: 0px;
+	width: 150px;
+	color: white;
+}
+#menuTabContainer{
+	float: center;
+	padding-top: 10%;
+    font-size: 170%;
+}
+#tableContainer{
+	float: center;
+	height: 5%;
+}
+#listContainer{
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+#one{
+	color: white;
+	width:31%;
+	height: 5%;
+}
+#two{
+	color: white;
+	width: 3%;
+	height: 5%;
+}
+#text1{
+	background-color: white; font-size: 120%; height: 30px; width: 200px; resize: none;
+}
+#text2{
+	background-color: white; font-size: 120%; height: 30px; width: 200px; resize: none;
+}
+#text3{
+	background-color: white; font-size: 120%; height: 30px; width: 200px; resize: none;
+}
+#text4{
+	background-color: white; font-size: 120%; height: 30px; width: 200px; resize: none;
+}
+#text5{	
+	background-color: white; font-size: 120%; height: 30px; width: 200px;
+	width: 95%; resize: none;
+}
+#text6{	
+	background-color: white; font-size: 120%; vertical-align: middle;
+	width: 95%; border: none; resize: none; height: 30px; 
+}
+#text7{	
+	background-color: #E0E0E0; font-size: 120%;	vertical-align: middle;
+	width: 95%; border: none; resize: none; height: 30px; 
+}
+#text8{	
+	background-color: white; font-size: 120%;	vertical-align: middle;
+	width: 95%; border: none; resize: none; height: 30px; 
+}
+
+#addButton{
+	float: center;
+	height: 20px;
+	width: 150px;
+	background-color: #3333ff;
+	color: white;
+}
+
+#saveAndReturn{
+	padding-top: 7px;
+	position: absolute;
+	bottom: -45;
+	right: 3.3%;
+	height: 30px;
+	width: 225px;
+	background-color: #3333ff;
+	color: white;
+}
+
+#leftListPadding{
+	padding-top: 2px;
+	float: left;
+	height: 30px;
+	width: 100%;
+	background-color: blue;
+}
+
+#searchButton{
+	float: center;
+	height: 20px;
+	width: 150px;
+	background-color: #3333ff;
+	color: white;
+}
+
+#list{
+}
+#listItem{
+	color: white;
+	font-size: 150%;
+}
+#listDiv{
+	position:relative;
+}
+#paddingDiv{
+	height: 45;
+	background-color: green;
+	position: absolute;
+	bottom: 30;
+}
+
